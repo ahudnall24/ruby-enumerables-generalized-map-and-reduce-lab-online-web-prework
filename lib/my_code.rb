@@ -1,4 +1,5 @@
-map([])
+map([fried, deli,cooked], sandwich)
+=> [chicken,turkey,ham]
 
 
 
